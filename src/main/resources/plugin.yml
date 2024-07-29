@@ -1,0 +1,6 @@
+name: WelcomeMessage
+version: '${project.version}'
+main: de.qwatrum.welcomemessage.WelcomeMessage
+api-version: '1.20'
+authors: [Qwatrum]
+description: A customizable welcome message plugin for your minecraft server
