@@ -4,3 +4,7 @@ main: de.qwatrum.welcomemessage.WelcomeMessage
 api-version: '1.20'
 authors: [Qwatrum]
 description: A customizable welcome message plugin for your minecraft server
+commands:
+  welcomemessage:
+    description: "/welcomemessage <setTitle title | setIp ip | setName serverName | setGreeting greeting>"
+    usage: "/welcomemessage <setTitle title | setIp ip | setName serverName | setGreeting greeting>"
